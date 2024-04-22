@@ -1,6 +1,6 @@
   <h1 align="center">Hi 👋, I'm Sibaprasad Sahoo</h1>
 <h3 align="center"> Enthusiastic MCA graduate having interests in data science, web development and problem solving.</h3>
-<img align="right" alt="coding"width="300"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Fgwqi5EaxKWzf51CtviazjRv0OG-GR29rCNJ2bbU-g&s">
+<img align="right" alt="coding"width="500"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Fgwqi5EaxKWzf51CtviazjRv0OG-GR29rCNJ2bbU-g&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siba02&label=Profile%20views&color=0e75b6&style=flat" alt="siba02" /> </p>
 
 - 📫 How to reach me **sibaprasad.tofan@gmail.com**
